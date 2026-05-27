@@ -1,4 +1,4 @@
-# GitHub Trending — 2026-05-27
+# GitHub Trending — 2026-05-28
 
 Updated daily by [Repobility](https://repobility.com) · static analyzer for AI-generated code · rule-based, no hallucinations.
 
@@ -6,197 +6,198 @@ Updated daily by [Repobility](https://repobility.com) · static analyzer for AI-
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 4,721 | 35,447 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 1,912 | 194,175 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 2,169 | 20,571 | Python | Learn it. Build it. Ship it for others. |
-| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 1,698 | 16,591 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 871 | 10,006 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
-| 6 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 547 | 4,946 |  | A skill file for removing AI tells from prose |
-| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 1,440 | 21,315 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 8 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 1,127 | 167,137 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
-| 9 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 91 | 52,347 | C# | The Free Software Media System - Server Backend & API |
-| 10 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 738 | 5,178 | JavaScript | Curated list of the best free apps for PC and mobile |
-| 11 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 237 | 46,785 | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 12 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 128 | 12,020 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts,  |
-| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 319 | 78,559 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it  |
-| 14 | [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) | 207 | 3,426 | Python | A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods. |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 1,737 | 61,815 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 4,466 | 39,656 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
+| 3 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 664 | 5,659 |  | A skill file for removing AI tells from prose |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 2,062 | 195,974 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f |
+| 5 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 695 | 17,242 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 2,715 | 24,131 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| 7 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 219 | 21,995 | Python | Fully automatic censorship removal for language models |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 402 | 26,862 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 885 | 10,921 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
+| 10 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 520 | 47,309 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 11 | [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | 143 | 1,803 | Shell | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cy |
+| 12 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 2,223 | 169,076 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
+| 13 | [obra/superpowers](https://github.com/obra/superpowers) | 1,680 | 209,475 | Shell | An agentic skills framework & software development methodology that works. |
+| 14 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 1,133 | 46,493 |  | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
+| 15 | [iii-hq/iii](https://github.com/iii-hq/iii) | 427 | 16,836 | Rust | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
 
 ## Daily · python
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 2,169 | 20,571 | Python | Learn it. Build it. Ship it for others. |
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 1,698 | 16,591 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 871 | 10,006 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
-| 4 | [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) | 207 | 3,426 | Python | A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods. |
-| 5 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 286 | 2,623 | Python | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 286 | 21,721 | Python | Fully automatic censorship removal for language models |
-| 7 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 32 | 24,324 | Python | Machine Learning Systems |
-| 8 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 262 | 62,801 | Python | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 9 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 406 | 3,230 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
-| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 148 | 83,982 | Python | Hunt down social media accounts by username across social networks |
-| 11 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 162 | 62,635 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
-| 12 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 403 | 41,542 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
-| 13 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 29 | 12,287 | Python | Create Reddit Videos with just✨ one command ✨ |
-| 14 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 420 | 26,456 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
-| 15 | [francescopace/espectre](https://github.com/francescopace/espectre) | 22 | 7,432 | Python | 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 1,737 | 61,815 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 695 | 17,242 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 3 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | 219 | 21,995 | Python | Fully automatic censorship removal for language models |
+| 4 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 402 | 26,862 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 885 | 10,921 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
+| 6 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 135 | 24,451 | Python | Machine Learning Systems |
+| 7 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 198 | 3,412 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
+| 8 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 119 | 81,183 | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 9 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 95 | 25,755 | Python | Build and run agents you can see, understand and trust. |
+| 10 | [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) | 5 | 670 | Python | Training library for Megatron-based models with bidirectional Hugging Face conversion capability |
+| 11 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 90 | 41,633 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| 12 | [anthropics/skills](https://github.com/anthropics/skills) | 658 | 141,907 | Python | Public repository for Agent Skills |
+| 13 | [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) | 82 | 6,787 | Python | GLM-OCR: Accurate × Fast × Comprehensive |
+| 14 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 484 | 2,967 | Python | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 15 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 216 | 66,593 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
 ## Daily · typescript
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 4,721 | 35,447 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 2 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 237 | 46,785 | TypeScript | The open alternative to Salesforce, designed for AI. |
-| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 128 | 12,020 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts,  |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 319 | 78,559 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it  |
-| 5 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | 859 | 8,906 | TypeScript | Build product integrations with AI. |
-| 6 | [immich-app/immich](https://github.com/immich-app/immich) | 117 | 101,935 | TypeScript | High performance self-hosted photo and video management solution. |
-| 7 | [earendil-works/pi](https://github.com/earendil-works/pi) | 943 | 55,511 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
-| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 2,826 | 27,551 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer |
-| 9 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 181 | 37,470 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternativ |
-| 10 | [marktext/marktext](https://github.com/marktext/marktext) | 65 | 56,480 | TypeScript | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| 11 | [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | 86 | 3,692 | TypeScript | CADAM is the open source text-to-CAD web application |
-| 12 | [multica-ai/multica](https://github.com/multica-ai/multica) | 328 | 33,323 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound |
-| 13 | [garrytan/gstack](https://github.com/garrytan/gstack) | 978 | 103,185 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, |
-| 14 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 158 | 5,920 | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories |
-| 15 | [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) | 56 | 1,368 | TypeScript | Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnosti |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 4,466 | 39,656 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
+| 2 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 520 | 47,309 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 56 | 40,200 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wi |
+| 4 | [garrytan/gstack](https://github.com/garrytan/gstack) | 452 | 103,636 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | 94 | 979 | TypeScript | Cursor plugin specification and official plugins |
+| 6 | [marktext/marktext](https://github.com/marktext/marktext) | 52 | 56,534 | TypeScript | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 89 | 28,079 | TypeScript | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
+| 8 | [NangoHQ/nango](https://github.com/NangoHQ/nango) | 448 | 9,226 | TypeScript | Build product integrations with AI. |
+| 9 | [earendil-works/pi](https://github.com/earendil-works/pi) | 824 | 56,332 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 10 | [orval-labs/orval](https://github.com/orval-labs/orval) | 26 | 5,969 | TypeScript | orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 s |
+| 11 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 196 | 59,814 | TypeScript | omo; the best agent harness - previously oh-my-opencode |
+| 12 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | 50 | 10,777 | TypeScript | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. |
+| 13 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 166 | 38,443 | TypeScript | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wire |
+| 14 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 212 | 14,627 | TypeScript | Open-source AI coworker, with memory |
+| 15 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 634 | 12,455 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts,  |
 
 ## Daily · rust
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [openai/codex](https://github.com/openai/codex) | 355 | 85,923 | Rust | Lightweight coding agent that runs in your terminal |
-| 2 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 36 | 25,947 | Rust | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-tim |
-| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 1,053 | 81,707 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl |
-| 4 | [iii-hq/iii](https://github.com/iii-hq/iii) | 190 | 16,327 | Rust | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
-| 5 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 457 | 35,041 | Rust | DeepSeek v4 coding agent in terminal |
-| 6 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 18 | 12,352 | Rust | IronClaw is an Agent OS focused on privacy, security and extensibility |
-| 7 | [rust-lang/rust](https://github.com/rust-lang/rust) | 47 | 113,100 | Rust | Empowering everyone to build reliable and efficient software. |
-| 8 | [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) | 18 | 2,301 | Rust | 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。 |
-| 9 | [rust-lang/cargo](https://github.com/rust-lang/cargo) | 9 | 15,010 | Rust | The Rust package manager |
-| 10 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 32 | 11,567 | Rust | A simple, decentralized mesh VPN with WireGuard support. |
-| 11 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 67 | 26,747 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
-| 12 | [mozilla/cargo-vet](https://github.com/mozilla/cargo-vet) | 15 | 919 | Rust | supply-chain security for Rust |
+| 1 | [iii-hq/iii](https://github.com/iii-hq/iii) | 427 | 16,836 | Rust | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
+| 2 | [mmalmi/nostr-vpn](https://github.com/mmalmi/nostr-vpn) | 74 | 790 | Rust |  |
+| 3 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | 34 | 29,120 | Rust | A Git-compatible VCS that is both simple and powerful |
+| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 1,003 | 82,718 | Rust | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl |
+| 5 | [cjpais/Handy](https://github.com/cjpais/Handy) | 98 | 22,493 | Rust | A free, open source, and extensible speech-to-text application that works completely offline. |
+| 6 | [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | 24 | 25,576 | Rust | An incremental parsing system for programming tools |
+| 7 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 42 | 28,048 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage |
+| 8 | [openai/codex](https://github.com/openai/codex) | 392 | 86,318 | Rust | Lightweight coding agent that runs in your terminal |
+| 9 | [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) | 98 | 3,795 | Rust | ⚡ Rust/WebAssembly image processing library |
+| 10 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 22 | 57,774 | Rust | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 11 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 53 | 23,079 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| 12 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 53 | 64,281 | Rust | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
 
 ## Daily · go
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 75 | 84,568 | Go | Open Source Continuous File Synchronization |
-| 2 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 16 | 64,159 | Go | The Prometheus monitoring system and time series database. |
-| 3 | [spf13/cobra](https://github.com/spf13/cobra) | 6 | 43,982 | Go | A Commander for modern Go CLI interactions |
-| 4 | [juanfont/headscale](https://github.com/juanfont/headscale) | 128 | 39,183 | Go | An open source, self-hosted implementation of the Tailscale control server |
-| 5 | [glanceapp/glance](https://github.com/glanceapp/glance) | 84 | 34,439 | Go | A self-hosted dashboard that puts all your feeds in one place |
-| 6 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 158 | 2,003 | Go | Claude / Codex / Gemini API Proxy - CCX |
-| 7 | [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) | 21 | 6,095 | Go | Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols  |
-| 8 | [stretchr/testify](https://github.com/stretchr/testify) | 0 | 25,981 | Go | A toolkit with common assertions and mocks that plays nicely with the standard library |
-| 9 | [go-playground/validator](https://github.com/go-playground/validator) | 3 | 19,974 | Go | 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving |
-| 10 | [spf13/viper](https://github.com/spf13/viper) | 3 | 30,263 | Go | Go configuration with fangs |
-| 11 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | 16 | 88,545 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better |
-| 12 | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 16 | 20,339 | Go | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
-| 13 | [lich0821/ccNexus](https://github.com/lich0821/ccNexus) | 8 | 942 | Go | Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI |
-| 14 | [harness/harness](https://github.com/harness/harness) | 42 | 36,135 | Go | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Develope |
-| 15 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 40 | 13,814 | Go | MCP for xiaohongshu.com |
+| 1 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 25 | 44,484 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 2 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 124 | 2,600 | Go | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runt |
+| 3 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | 9 | 18,539 | Go | Database migrations. CLI and Golang library. |
+| 4 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 25 | 32,530 | Go | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle  |
+| 5 | [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | 3 | 16,707 | Go | Workflow Engine for Kubernetes |
+| 6 | [kulikov0/whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) | 27 | 1,293 | Go |  |
+| 7 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 27 | 88,282 | Go | The world’s fastest framework for building websites. |
+| 8 | [bia-pain-bache/BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) | 29 | 488 | Go | A wizard to facilitate BPB Panel deployment and management. |
+| 9 | [james-6-23/codex2api](https://github.com/james-6-23/codex2api) | 27 | 1,312 | Go | Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 |
+| 10 | [Infisical/agent-vault](https://github.com/Infisical/agent-vault) | 21 | 1,444 | Go | A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. |
+| 11 | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | 2 | 3,058 | Go | MCP server for Grafana |
+| 12 | [gravitational/teleport](https://github.com/gravitational/teleport) | 14 | 20,406 | Go | The easiest, and most secure way to access and protect all of your infrastructure. |
+| 13 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 38 | 5,286 | Go | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod |
+| 14 | [glanceapp/glance](https://github.com/glanceapp/glance) | 66 | 34,507 | Go | A self-hosted dashboard that puts all your feeds in one place |
+| 15 | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 16 | 20,355 | Go | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
 
 ## Weekly · All languages
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 0 | 27,552 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer |
-| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 0 | 35,447 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 0 | 20,572 | Python | Learn it. Build it. Ship it for others. |
-| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 0 | 28,270 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 0 | 22,125 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 6 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 0 | 66,268 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection |
-| 7 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 0 | 7,618 | Python | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
-| 8 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 0 | 18,180 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 9 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 0 | 7,508 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and m |
-| 10 | [NVlabs/Sana](https://github.com/NVlabs/Sana) | 0 | 7,705 | Python | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| 11 | [presenton/presenton](https://github.com/presenton/presenton) | 0 | 7,062 | TypeScript | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) |
-| 12 | [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 0 | 22,408 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of pro |
-| 13 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 0 | 16,591 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 14 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 0 | 10,623 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| 15 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 0 | 3,230 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 0 | 29,745 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 0 | 39,656 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 0 | 22,439 | Python | Learn it. Build it. Ship it for others. |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 0 | 66,709 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection |
+| 5 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 0 | 17,242 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 6 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 0 | 22,744 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 0 | 6,698 | TypeScript | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| 8 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 0 | 7,799 | Python | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 0 | 28,828 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 0 | 7,855 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and m |
+| 11 | [cursor/plugins](https://github.com/cursor/plugins) | 0 | 979 | TypeScript | Cursor plugin specification and official plugins |
+| 12 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 0 | 5,659 |  | A skill file for removing AI tells from prose |
+| 13 | [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) | 0 | 1,803 | Shell | Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cy |
+| 14 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 0 | 18,660 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 15 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 0 | 3,412 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
 
 ## Weekly · python
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 0 | 20,572 | Python | Learn it. Build it. Ship it for others. |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 0 | 22,125 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 3 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 0 | 7,618 | Python | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
-| 4 | [NVlabs/Sana](https://github.com/NVlabs/Sana) | 0 | 7,705 | Python | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| 5 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 0 | 16,591 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 6 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 0 | 3,230 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
-| 7 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 0 | 40,593 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 8 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 0 | 12,737 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
-| 9 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 0 | 21,392 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patc |
-| 10 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 0 | 4,335 | Python | Memory library for building stateful agents |
-| 11 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 0 | 27,959 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| 12 | [openai/skills](https://github.com/openai/skills) | 0 | 20,391 | Python | Skills Catalog for Codex |
-| 13 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 0 | 10,006 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
-| 14 | [modelscope/FunASR](https://github.com/modelscope/FunASR) | 0 | 16,314 | Python | Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, strea |
-| 15 | [openai/whisper](https://github.com/openai/whisper) | 0 | 100,601 | Python | Robust Speech Recognition via Large-Scale Weak Supervision |
+| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 0 | 22,439 | Python | Learn it. Build it. Ship it for others. |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 0 | 17,242 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 0 | 22,744 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 4 | [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | 0 | 7,799 | Python | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
+| 5 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 0 | 3,412 | Python | Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/ |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 0 | 10,921 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3F |
+| 7 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 0 | 61,815 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 8 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 0 | 12,845 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
+| 9 | [NVlabs/Sana](https://github.com/NVlabs/Sana) | 0 | 7,762 | Python | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 0 | 40,868 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 11 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 0 | 4,393 | Python | Memory library for building stateful agents |
+| 12 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 0 | 2,967 | Python | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 13 | [openai/skills](https://github.com/openai/skills) | 0 | 20,557 | Python | Skills Catalog for Codex |
+| 14 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 0 | 21,762 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patc |
+| 15 | [openai/whisper](https://github.com/openai/whisper) | 0 | 100,714 | Python | Robust Speech Recognition via Large-Scale Weak Supervision |
 
 ## Weekly · typescript
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 0 | 27,552 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer |
-| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 0 | 35,447 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 0 | 18,180 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 0 | 7,508 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and m |
-| 5 | [presenton/presenton](https://github.com/presenton/presenton) | 0 | 7,062 | TypeScript | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) |
-| 6 | [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 0 | 22,408 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of pro |
-| 7 | [cursor/plugins](https://github.com/cursor/plugins) | 0 | 905 | TypeScript | Cursor plugin specification and official plugins |
-| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 0 | 41,851 | TypeScript | Chrome DevTools for coding agents |
-| 9 | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 0 | 33,259 | TypeScript | NVR with realtime local object detection for IP cameras |
-| 10 | [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 0 | 10,909 | TypeScript | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与 |
-| 11 | [multica-ai/multica](https://github.com/multica-ai/multica) | 0 | 33,323 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound |
-| 12 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 0 | 6,491 | TypeScript | Free, Open Source, Self-Hosted WhatsApp API Gateway |
-| 13 | [stablyai/orca](https://github.com/stablyai/orca) | 0 | 3,449 | TypeScript | Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. A |
-| 14 | [trykimu/videoeditor](https://github.com/trykimu/videoeditor) | 0 | 1,994 | TypeScript | Your Creative Copilot for Video Editing |
-| 15 | [phodal/routa](https://github.com/phodal/routa) | 0 | 1,511 | TypeScript | Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/A |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 0 | 29,745 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 0 | 39,656 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
+| 3 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 0 | 6,698 | TypeScript | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| 4 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 0 | 7,855 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and m |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | 0 | 979 | TypeScript | Cursor plugin specification and official plugins |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 0 | 18,660 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| 7 | [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 0 | 22,563 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of pro |
+| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 0 | 41,993 | TypeScript | Chrome DevTools for coding agents |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | 0 | 33,646 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound |
+| 10 | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 0 | 33,309 | TypeScript | NVR with realtime local object detection for IP cameras |
+| 11 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 0 | 40,200 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wi |
+| 12 | [presenton/presenton](https://github.com/presenton/presenton) | 0 | 7,196 | TypeScript | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) |
+| 13 | [stablyai/orca](https://github.com/stablyai/orca) | 0 | 3,544 | TypeScript | Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. A |
+| 14 | [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 0 | 10,954 | TypeScript | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与 |
+| 15 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 0 | 12,455 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts,  |
 
 ## Weekly · rust
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 0 | 28,270 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 0 | 66,268 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection |
-| 3 | [bevyengine/bevy](https://github.com/bevyengine/bevy) | 0 | 46,285 | Rust | A refreshingly simple data-driven game engine built in Rust |
-| 4 | [grpc/grpc-rust](https://github.com/grpc/grpc-rust) | 0 | 12,170 | Rust | A native gRPC client & server implementation with async/await support. |
-| 5 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 0 | 7,086 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
-| 6 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 0 | 23,037 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
-| 7 | [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) | 0 | 14,170 | Rust | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
-| 8 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 0 | 18,930 | Rust | YC (S26) \| Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secu |
-| 9 | [facebook/pyrefly](https://github.com/facebook/pyrefly) | 0 | 6,526 | Rust | A fast type checker and language server for Python |
-| 10 | [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) | 0 | 1,961 | Rust | A Git extension for tracking the AI-generated code in your repos |
-| 11 | [lance-format/lance](https://github.com/lance-format/lance) | 0 | 6,536 | Rust | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector i |
-| 12 | [iii-hq/iii](https://github.com/iii-hq/iii) | 0 | 16,327 | Rust | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
-| 13 | [rerun-io/rerun](https://github.com/rerun-io/rerun) | 0 | 10,837 | Rust | Visualize, query, and stream to train on multimodal robotics data. |
-| 14 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 0 | 11,567 | Rust | A simple, decentralized mesh VPN with WireGuard support. |
-| 15 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 0 | 29,426 | Rust | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built w |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 0 | 66,709 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection |
+| 2 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 0 | 28,828 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| 3 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 0 | 2,633 | Rust | agent multiplexer that lives in your terminal. |
+| 4 | [bevyengine/bevy](https://github.com/bevyengine/bevy) | 0 | 46,313 | Rust | A refreshingly simple data-driven game engine built in Rust |
+| 5 | [iii-hq/iii](https://github.com/iii-hq/iii) | 0 | 16,836 | Rust | Effortlessly compose, extend, and observe every service in real-time for the first time ever. |
+| 6 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 0 | 23,079 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| 7 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 0 | 7,101 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
+| 8 | [grpc/grpc-rust](https://github.com/grpc/grpc-rust) | 0 | 12,177 | Rust | A native gRPC client & server implementation with async/await support. |
+| 9 | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 0 | 18,948 | Rust | YC (S26) \| Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secu |
+| 10 | [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) | 0 | 5,435 | Rust | Space and Time \| Proof of SQL |
+| 11 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 0 | 25,977 | Rust | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-tim |
+| 12 | [openai/codex](https://github.com/openai/codex) | 0 | 86,318 | Rust | Lightweight coding agent that runs in your terminal |
+| 13 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 0 | 11,596 | Rust | A simple, decentralized mesh VPN with WireGuard support. |
+| 14 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 0 | 1,324 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based P |
+| 15 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 0 | 29,454 | Rust | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built w |
 
 ## Weekly · go
 
 | # | Repo | ⭐ today | ⭐ total | Lang | Description |
 | - | --- | --- | --- | --- | --- |
-| 1 | [larksuite/cli](https://github.com/larksuite/cli) | 0 | 12,748 | Go | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core busine |
-| 2 | [containerd/containerd](https://github.com/containerd/containerd) | 0 | 20,765 | Go | An open and reliable container runtime |
-| 3 | [zakirullin/files.md](https://github.com/zakirullin/files.md) | 0 | 2,837 | Go | 🌱 Private, quiet space for thinking. A simple app for your .md files. |
-| 4 | [juanfont/headscale](https://github.com/juanfont/headscale) | 0 | 39,183 | Go | An open source, self-hosted implementation of the Tailscale control server |
-| 5 | [usememos/memos](https://github.com/usememos/memos) | 0 | 60,139 | Go | Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. |
-| 6 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 0 | 34,330 | Go | Network-wide ads & trackers blocking DNS server |
-| 7 | [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) | 0 | 1,188 | Go | Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 o |
-| 8 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 0 | 2,003 | Go | Claude / Codex / Gemini API Proxy - CCX |
-| 9 | [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) | 0 | 1,684 | Go | Manages Unified Access to Generative AI Services built on Envoy Gateway |
-| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 0 | 15,563 | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m |
-| 11 | [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 0 | 34,868 | Go | 📂 Web File Browser |
-| 12 | [terrastruct/d2](https://github.com/terrastruct/d2) | 0 | 23,967 | Go | D2 is a modern diagram scripting language that turns text to diagrams. |
-| 13 | [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) | 0 | 13,606 | Go | CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs an |
-| 14 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | 0 | 51,713 | Go | Distributed reliable key-value store for the most critical data of a distributed system |
-| 15 | [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | 0 | 5,690 | Go | WhatsApp MCP server |
+| 1 | [containerd/containerd](https://github.com/containerd/containerd) | 0 | 20,768 | Go | An open and reliable container runtime |
+| 2 | [zakirullin/files.md](https://github.com/zakirullin/files.md) | 0 | 2,869 | Go | 🌱 Private, quiet space for thinking. A simple app for your .md files. |
+| 3 | [usememos/memos](https://github.com/usememos/memos) | 0 | 60,171 | Go | Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. |
+| 4 | [juanfont/headscale](https://github.com/juanfont/headscale) | 0 | 39,271 | Go | An open source, self-hosted implementation of the Tailscale control server |
+| 5 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 0 | 34,381 | Go | Network-wide ads & trackers blocking DNS server |
+| 6 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 0 | 2,600 | Go | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runt |
+| 7 | [larksuite/cli](https://github.com/larksuite/cli) | 0 | 12,881 | Go | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core busine |
+| 8 | [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 0 | 34,882 | Go | 📂 Web File Browser |
+| 9 | [glanceapp/glance](https://github.com/glanceapp/glance) | 0 | 34,507 | Go | A self-hosted dashboard that puts all your feeds in one place |
+| 10 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | 0 | 39,702 | Go | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
+| 11 | [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 0 | 20,355 | Go | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. |
+| 12 | [kulikov0/whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) | 0 | 1,293 | Go |  |
+| 13 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 0 | 2,143 | Go | Claude / Codex / Gemini API Proxy - CCX |
+| 14 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | 0 | 51,723 | Go | Distributed reliable key-value store for the most critical data of a distributed system |
+| 15 | [fatedier/frp](https://github.com/fatedier/frp) | 0 | 106,895 | Go | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
 
 ---
 
